@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi  👋 Thank you visiting here !!
 
 <!--
 **maddy65/maddy65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is **Madhurendra** and I translate ideas into technology through my code. I am full stack developer and have in deepth knowledge of system designing. I keep high quality of 
+code with high performance and security for things which I build. I am  dedicated technology enthusiast and active in Social Media.
+
+Language :
+
+Java | Spring | JPA
+ReactJS  | ExtJS | JavsScript
+
+DataBase :
+
+MySQL | MongoDB
+
+Tools :
+
+NodeJS | Visual Studio | Git | Jenkin 
+
+
+
+Reach me 
+
+[Twitter](https://twitter.com/maddyraj) [Linkdin](https://www.linkedin.com/in/maddy65/)
+
+
+
