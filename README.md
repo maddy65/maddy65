@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 My name is **Madhurendra** and I translate ideas into technology through my code. I am full stack developer and have in deepth knowledge of system designing. I keep high quality of 
 code with high performance and security for things which I build. I am  dedicated technology enthusiast and active in Social Media.
 
-Language :
+Technology and Language :
 
+NodeJS | ReactJS  | ExtJS | JavsScript
 Java | Spring | JPA
-ReactJS  | ExtJS | JavsScript
+
 
 DataBase :
 
@@ -28,7 +29,7 @@ MySQL | MongoDB
 
 Tools :
 
-NodeJS | Visual Studio | Git | Jenkin 
+ Andriod Studio | Eclipse | Postman | Visual Studio | Git | Jenkin 
 
 
 
