@@ -1,45 +1,30 @@
-### Hi  👋 Thank you visiting here !!
+### Hi 👋 Thank you for visiting here !!
 
-<!--
-**maddy65/maddy65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Madhurendra** and I translate ideas into technology through my code. I am a full-stack developer with in-depth knowledge of system designing, focusing on high performance, security, and quality code. I am a dedicated technology enthusiast and active on social media.
 
-Here are some ideas to get you started:
+### Technology and Language:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is **Madhurendra** and I translate ideas into technology through my code. I am full stack developer and have in deepth knowledge of system designing. I keep high quality of 
-code with high performance and security for things which I build. I am  dedicated technology enthusiast and active in Social Media.
+- **Java** | **Spring** | **Spring Boot** | **Spring Cloud**
+- **JPA** | **Hibernate**
+- **AWS** | **Lambda** | **EC2** | **S3** | **RDS**
+- **Kafka** | **RabbitMQ**
+- **NodeJS** | **ExpressJS**
+- **ReactJS** | **ExtJS** | **JavaScript**
 
-Technology and Language :
+### Database:
 
+- **MySQL** | **MongoDB** | **PostgreSQL** | **Redis**
 
-Java | Spring | JPA
+### Tools:
 
-NodeJS | ReactJS  | ExtJS | JavsScript
+- **IntelliJ IDEA** | **Eclipse** | **Visual Studio Code** | **Postman**
+- **Git** | **GitHub** | **Jenkins** | **Docker** | **Kubernetes**
 
-AWS |
+### Reach me:
 
+- [Twitter](https://twitter.com/maddyraj)
+- [LinkedIn](https://www.linkedin.com/in/maddy65/)
 
-DataBase :
+### Fun Fact:
 
-MySQL | MongoDB
-
-Tools :
-
- Andriod Studio | Eclipse | Postman | Visual Studio | Git | Jenkin 
-
-
-
-Reach me 
-
-[Twitter](https://twitter.com/maddyraj) [Linkdin](https://www.linkedin.com/in/maddy65/)
-
-
-
+- I’m passionate about leveraging cloud technologies and microservices architecture to build scalable and resilient systems.
